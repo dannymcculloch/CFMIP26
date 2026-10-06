@@ -1,7 +1,8 @@
 # CFMIP26
-Repo for additional content for CFMIP 26
-<object data="https://github.com/dannymcculloch/CFMIP26/blob/main/CFMIP26%20poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/dannymcculloch/CFMIP26/blob/main/CFMIP26%20poster.pdf">
-        <p>This browser does not support PDFs. You can download the PDF <a href="https://github.com/dannymcculloch/CFMIP26/blob/main/CFMIP26%20poster.pdf">here</a>.</p>
-    </embed>
-</object>
+Repo for additional content for CFMIP 2026. The poster and individual plots are included in the subdirectory.
+
+Here's a preview of the poster. You can also download it as a PDF above.
+
+<p align="center">
+  <img src="https://github.com/dannymcculloch/CFMIP26/blob/main/CFMIP26%20poster.png" alt="Poster" width="1000">
+</p>
